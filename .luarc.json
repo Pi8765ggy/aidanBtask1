@@ -1,0 +1,14 @@
+{
+    "runtime.special": {
+        "love.filesystem.load": "loadfile"
+    },
+    "workspace.library": [
+        "/home/pi8765ggy/.config/nvim",
+        "/home/pi8765ggy/.local/share/nvim/lazy/lazy.nvim",
+        "/snap/nvim/3982/usr/share/nvim/runtime",
+        "/home/pi8765ggy/.local/state/nvim/lazy/readme",
+        "${3rd}/love2d/library",
+        "/home/pi8765ggy/.config/libraries/love2d/library",
+        "${3rd}/luassert/library"
+    ]
+}

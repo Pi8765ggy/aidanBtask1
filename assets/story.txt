@@ -1,0 +1,18 @@
+*Music_1
+"Hello!
+*MC_Fear
+"Do you like this?
+*MC_Sad
+*Background_2
+*Music_2
+"I knew you wouldnt..
+*MC_Shocked
+"Oh! You actually do!
+*Music_3
+*MC_Happy
+*Background_3
+"Thats a relief
+*MC_Concerned
+"You had me worried for a moment there
+*MC_Default
+"Kill yourself
